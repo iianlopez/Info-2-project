@@ -1,0 +1,68 @@
+C:\Users\roc\Desktop\INFII\PrimerProyecto\SimulatorConsole\bin\Debug\SimulatorConsole.exe.config
+C:\Users\roc\Desktop\INFII\PrimerProyecto\SimulatorConsole\bin\Debug\SimulatorConsole.exe
+C:\Users\roc\Desktop\INFII\PrimerProyecto\SimulatorConsole\bin\Debug\SimulatorConsole.pdb
+C:\Users\roc\Desktop\INFII\PrimerProyecto\SimulatorConsole\bin\Debug\FlightLib.dll
+C:\Users\roc\Desktop\INFII\PrimerProyecto\SimulatorConsole\bin\Debug\FlightLib.pdb
+C:\Users\roc\Desktop\INFII\PrimerProyecto\SimulatorConsole\obj\Debug\SimulatorConsole.csprojAssemblyReference.cache
+C:\Users\roc\Desktop\INFII\PrimerProyecto\SimulatorConsole\obj\Debug\SimulatorConsole.csproj.CoreCompileInputs.cache
+C:\Users\roc\Desktop\INFII\PrimerProyecto\SimulatorConsole\obj\Debug\SimulatorConsole.csproj.CopyComplete
+C:\Users\roc\Desktop\INFII\PrimerProyecto\SimulatorConsole\obj\Debug\SimulatorConsole.exe
+C:\Users\roc\Desktop\INFII\PrimerProyecto\SimulatorConsole\obj\Debug\SimulatorConsole.pdb
+C:\Users\roc\Desktop\INFII\Sesion1\PrimerProyectoBefore\SimulatorConsole\obj\Debug\SimulatorConsole.csprojAssemblyReference.cache
+C:\Users\roc\Desktop\INFII\Sesion1\PrimerProyectoBefore\SimulatorConsole\obj\Debug\SimulatorConsole.csproj.CoreCompileInputs.cache
+C:\Users\roc\Desktop\INFII\Sesion1\PrimerProyectoBefore\SimulatorConsole\obj\Debug\SimulatorConsole.exe
+C:\Users\roc\Desktop\INFII\Sesion1\PrimerProyectoBefore\SimulatorConsole\obj\Debug\SimulatorConsole.pdb
+C:\Users\roc\Desktop\INFII\Sesion1\PrimerProyectoBefore\SimulatorConsole\bin\Debug\SimulatorConsole.exe.config
+C:\Users\roc\Desktop\INFII\Sesion1\PrimerProyectoBefore\SimulatorConsole\bin\Debug\SimulatorConsole.exe
+C:\Users\roc\Desktop\INFII\Sesion1\PrimerProyectoBefore\SimulatorConsole\bin\Debug\SimulatorConsole.pdb
+C:\Users\roc\Desktop\INFII\Sesion1\PrimerProyectoBefore\SimulatorConsole\bin\Debug\FlightLib.dll
+C:\Users\roc\Desktop\INFII\Sesion1\PrimerProyectoBefore\SimulatorConsole\bin\Debug\FlightLib.pdb
+C:\Users\roc\Desktop\INFII\Sesion1\PrimerProyectoBefore\SimulatorConsole\obj\Debug\SimulatorConsole.csproj.CopyComplete
+C:\Users\Ian\Desktop\PrimerProyectoBefore\SimulatorConsole\obj\Debug\SimulatorConsole.csproj.AssemblyReference.cache
+C:\Users\Ian\Desktop\PrimerProyectoBefore\SimulatorConsole\obj\Debug\SimulatorConsole.csproj.CoreCompileInputs.cache
+C:\Users\Ian\Desktop\PrimerProyectoBefore\SimulatorConsole\obj\Debug\SimulatorConsole.exe
+C:\Users\Ian\Desktop\PrimerProyectoBefore\SimulatorConsole\obj\Debug\SimulatorConsole.pdb
+C:\Users\Ian\Desktop\PrimerProyectoBefore\SimulatorConsole\bin\Debug\SimulatorConsole.exe.config
+C:\Users\Ian\Desktop\PrimerProyectoBefore\SimulatorConsole\bin\Debug\SimulatorConsole.exe
+C:\Users\Ian\Desktop\PrimerProyectoBefore\SimulatorConsole\bin\Debug\SimulatorConsole.pdb
+C:\Users\Ian\Desktop\PrimerProyectoBefore\SimulatorConsole\bin\Debug\FlightLib.dll
+C:\Users\Ian\Desktop\PrimerProyectoBefore\SimulatorConsole\bin\Debug\FlightLib.pdb
+C:\Users\Ian\Desktop\PrimerProyectoBefore\SimulatorConsole\obj\Debug\SimulatorConsole.csproj.CopyComplete
+G:\Mi unidad\2n\1r quatri\info II\Semana1\Proyecto 1\PrimerProyectoBefore\SimulatorConsole\bin\Debug\SimulatorConsole.exe.config
+G:\Mi unidad\2n\1r quatri\info II\Semana1\Proyecto 1\PrimerProyectoBefore\SimulatorConsole\bin\Debug\SimulatorConsole.exe
+G:\Mi unidad\2n\1r quatri\info II\Semana1\Proyecto 1\PrimerProyectoBefore\SimulatorConsole\bin\Debug\SimulatorConsole.pdb
+G:\Mi unidad\2n\1r quatri\info II\Semana1\Proyecto 1\PrimerProyectoBefore\SimulatorConsole\bin\Debug\FlightLib.dll
+G:\Mi unidad\2n\1r quatri\info II\Semana1\Proyecto 1\PrimerProyectoBefore\SimulatorConsole\bin\Debug\FlightLib.pdb
+G:\Mi unidad\2n\1r quatri\info II\Semana1\Proyecto 1\PrimerProyectoBefore\SimulatorConsole\obj\Debug\SimulatorConsole.csproj.AssemblyReference.cache
+G:\Mi unidad\2n\1r quatri\info II\Semana1\Proyecto 1\PrimerProyectoBefore\SimulatorConsole\obj\Debug\SimulatorConsole.csproj.CoreCompileInputs.cache
+G:\Mi unidad\2n\1r quatri\info II\Semana1\Proyecto 1\PrimerProyectoBefore\SimulatorConsole\obj\Debug\SimulatorConsole.csproj.CopyComplete
+G:\Mi unidad\2n\1r quatri\info II\Semana1\Proyecto 1\PrimerProyectoBefore\SimulatorConsole\obj\Debug\SimulatorConsole.exe
+G:\Mi unidad\2n\1r quatri\info II\Semana1\Proyecto 1\PrimerProyectoBefore\SimulatorConsole\obj\Debug\SimulatorConsole.pdb
+G:\Mi unidad\2n\1r quatri\info II\Semana1\Proyecto 1\- Deliverable #1.2 - Ían López Miralles - Primer proyecto -\SimulatorConsole\obj\Debug\SimulatorConsole.csproj.AssemblyReference.cache
+G:\Mi unidad\2n\1r quatri\info II\Semana1\Proyecto 1\- Deliverable #1.2 - Ían López Miralles - Primer proyecto -\SimulatorConsole\obj\Debug\SimulatorConsole.csproj.CoreCompileInputs.cache
+G:\Mi unidad\2n\1r quatri\info II\Semana1\Proyecto 1\- Deliverable #1.2 - Ían López Miralles - Primer proyecto -\SimulatorConsole\obj\Debug\SimulatorConsole.exe
+G:\Mi unidad\2n\1r quatri\info II\Semana1\Proyecto 1\- Deliverable #1.2 - Ían López Miralles - Primer proyecto -\SimulatorConsole\obj\Debug\SimulatorConsole.pdb
+G:\Mi unidad\2n\1r quatri\info II\Semana1\Proyecto 1\- Deliverable #1.2 - Ían López Miralles - Primer proyecto -\SimulatorConsole\bin\Debug\SimulatorConsole.exe.config
+G:\Mi unidad\2n\1r quatri\info II\Semana1\Proyecto 1\- Deliverable #1.2 - Ían López Miralles - Primer proyecto -\SimulatorConsole\bin\Debug\SimulatorConsole.exe
+G:\Mi unidad\2n\1r quatri\info II\Semana1\Proyecto 1\- Deliverable #1.2 - Ían López Miralles - Primer proyecto -\SimulatorConsole\bin\Debug\SimulatorConsole.pdb
+G:\Mi unidad\2n\1r quatri\info II\Semana1\Proyecto 1\- Deliverable #1.2 - Ían López Miralles - Primer proyecto -\SimulatorConsole\bin\Debug\FlightLib.dll
+G:\Mi unidad\2n\1r quatri\info II\Semana1\Proyecto 1\- Deliverable #1.2 - Ían López Miralles - Primer proyecto -\SimulatorConsole\bin\Debug\FlightLib.pdb
+G:\Mi unidad\2n\1r quatri\info II\Semana1\Proyecto 1\- Deliverable #1.2 - Ían López Miralles - Primer proyecto -\SimulatorConsole\obj\Debug\SimulatorConsole.csproj.CopyComplete
+G:\Mi unidad\2n\1r quatri\info II\Semana1\Proyecto 1\- Deliverable #1.2 - Ían López Miralles - Primer proyecto -\SimulatorConsole\obj\Debug\SimulatorConsole.Form1.resources
+G:\Mi unidad\2n\1r quatri\info II\Semana1\Proyecto 1\- Deliverable #1.2 - Ían López Miralles - Primer proyecto -\SimulatorConsole\obj\Debug\SimulatorConsole.csproj.GenerateResource.cache
+G:\Mi unidad\2n\1r quatri\info II\Semana1\Proyecto 1\- Deliverable #1.2 - Ían López Miralles - Primer proyecto -\SimulatorConsole\obj\Debug\SimulatorConsole.Form2.resources
+G:\Mi unidad\2n\1r quatri\info II\Semana1\Proyecto 1\- Deliverable #1.2 - Ían López Miralles - Primer proyecto -\SimulatorConsole\obj\Debug\SimulatorConsole.Properties.Resources.resources
+G:\Mi unidad\2n\1r quatri\info II\Semana1\Proyecto 1\- Deliverable #3.2 - Ían López Miralles - Primer proyecto -\SimulatorConsole\bin\Debug\SimulatorConsole.exe.config
+G:\Mi unidad\2n\1r quatri\info II\Semana1\Proyecto 1\- Deliverable #3.2 - Ían López Miralles - Primer proyecto -\SimulatorConsole\bin\Debug\SimulatorConsole.exe
+G:\Mi unidad\2n\1r quatri\info II\Semana1\Proyecto 1\- Deliverable #3.2 - Ían López Miralles - Primer proyecto -\SimulatorConsole\bin\Debug\SimulatorConsole.pdb
+G:\Mi unidad\2n\1r quatri\info II\Semana1\Proyecto 1\- Deliverable #3.2 - Ían López Miralles - Primer proyecto -\SimulatorConsole\bin\Debug\FlightLib.dll
+G:\Mi unidad\2n\1r quatri\info II\Semana1\Proyecto 1\- Deliverable #3.2 - Ían López Miralles - Primer proyecto -\SimulatorConsole\bin\Debug\FlightLib.pdb
+G:\Mi unidad\2n\1r quatri\info II\Semana1\Proyecto 1\- Deliverable #3.2 - Ían López Miralles - Primer proyecto -\SimulatorConsole\obj\Debug\SimulatorConsole.csproj.AssemblyReference.cache
+G:\Mi unidad\2n\1r quatri\info II\Semana1\Proyecto 1\- Deliverable #3.2 - Ían López Miralles - Primer proyecto -\SimulatorConsole\obj\Debug\SimulatorConsole.Form1.resources
+G:\Mi unidad\2n\1r quatri\info II\Semana1\Proyecto 1\- Deliverable #3.2 - Ían López Miralles - Primer proyecto -\SimulatorConsole\obj\Debug\SimulatorConsole.Form2.resources
+G:\Mi unidad\2n\1r quatri\info II\Semana1\Proyecto 1\- Deliverable #3.2 - Ían López Miralles - Primer proyecto -\SimulatorConsole\obj\Debug\SimulatorConsole.Properties.Resources.resources
+G:\Mi unidad\2n\1r quatri\info II\Semana1\Proyecto 1\- Deliverable #3.2 - Ían López Miralles - Primer proyecto -\SimulatorConsole\obj\Debug\SimulatorConsole.csproj.GenerateResource.cache
+G:\Mi unidad\2n\1r quatri\info II\Semana1\Proyecto 1\- Deliverable #3.2 - Ían López Miralles - Primer proyecto -\SimulatorConsole\obj\Debug\SimulatorConsole.csproj.CoreCompileInputs.cache
+G:\Mi unidad\2n\1r quatri\info II\Semana1\Proyecto 1\- Deliverable #3.2 - Ían López Miralles - Primer proyecto -\SimulatorConsole\obj\Debug\SimulatorConsole.csproj.CopyComplete
+G:\Mi unidad\2n\1r quatri\info II\Semana1\Proyecto 1\- Deliverable #3.2 - Ían López Miralles - Primer proyecto -\SimulatorConsole\obj\Debug\SimulatorConsole.exe
+G:\Mi unidad\2n\1r quatri\info II\Semana1\Proyecto 1\- Deliverable #3.2 - Ían López Miralles - Primer proyecto -\SimulatorConsole\obj\Debug\SimulatorConsole.pdb

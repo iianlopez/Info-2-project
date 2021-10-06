@@ -1,0 +1,57 @@
+C:\Users\roc\Desktop\INFII\PrimerProyecto\FlightLib\bin\Debug\netstandard2.0\FlightLib.deps.json
+C:\Users\roc\Desktop\INFII\PrimerProyecto\FlightLib\bin\Debug\netstandard2.0\FlightLib.dll
+C:\Users\roc\Desktop\INFII\PrimerProyecto\FlightLib\bin\Debug\netstandard2.0\FlightLib.pdb
+C:\Users\roc\Desktop\INFII\PrimerProyecto\FlightLib\obj\Debug\netstandard2.0\FlightLib.csprojAssemblyReference.cache
+C:\Users\roc\Desktop\INFII\PrimerProyecto\FlightLib\obj\Debug\netstandard2.0\FlightLib.csproj.CoreCompileInputs.cache
+C:\Users\roc\Desktop\INFII\PrimerProyecto\FlightLib\obj\Debug\netstandard2.0\FlightLib.AssemblyInfoInputs.cache
+C:\Users\roc\Desktop\INFII\PrimerProyecto\FlightLib\obj\Debug\netstandard2.0\FlightLib.AssemblyInfo.cs
+C:\Users\roc\Desktop\INFII\PrimerProyecto\FlightLib\obj\Debug\netstandard2.0\FlightLib.dll
+C:\Users\roc\Desktop\INFII\PrimerProyecto\FlightLib\obj\Debug\netstandard2.0\FlightLib.pdb
+C:\Users\roc\Desktop\INFII\Sesion1\PrimerProyectoBefore\FlightLib\bin\Debug\netstandard2.0\FlightLib.deps.json
+C:\Users\roc\Desktop\INFII\Sesion1\PrimerProyectoBefore\FlightLib\bin\Debug\netstandard2.0\FlightLib.dll
+C:\Users\roc\Desktop\INFII\Sesion1\PrimerProyectoBefore\FlightLib\bin\Debug\netstandard2.0\FlightLib.pdb
+C:\Users\roc\Desktop\INFII\Sesion1\PrimerProyectoBefore\FlightLib\obj\Debug\netstandard2.0\FlightLib.csprojAssemblyReference.cache
+C:\Users\roc\Desktop\INFII\Sesion1\PrimerProyectoBefore\FlightLib\obj\Debug\netstandard2.0\FlightLib.csproj.CoreCompileInputs.cache
+C:\Users\roc\Desktop\INFII\Sesion1\PrimerProyectoBefore\FlightLib\obj\Debug\netstandard2.0\FlightLib.AssemblyInfoInputs.cache
+C:\Users\roc\Desktop\INFII\Sesion1\PrimerProyectoBefore\FlightLib\obj\Debug\netstandard2.0\FlightLib.AssemblyInfo.cs
+C:\Users\roc\Desktop\INFII\Sesion1\PrimerProyectoBefore\FlightLib\obj\Debug\netstandard2.0\FlightLib.dll
+C:\Users\roc\Desktop\INFII\Sesion1\PrimerProyectoBefore\FlightLib\obj\Debug\netstandard2.0\FlightLib.pdb
+C:\Users\Ian\Desktop\PrimerProyectoBefore\FlightLib\bin\Debug\netstandard2.0\FlightLib.deps.json
+C:\Users\Ian\Desktop\PrimerProyectoBefore\FlightLib\bin\Debug\netstandard2.0\FlightLib.dll
+C:\Users\Ian\Desktop\PrimerProyectoBefore\FlightLib\bin\Debug\netstandard2.0\FlightLib.pdb
+C:\Users\Ian\Desktop\PrimerProyectoBefore\FlightLib\obj\Debug\netstandard2.0\FlightLib.csproj.AssemblyReference.cache
+C:\Users\Ian\Desktop\PrimerProyectoBefore\FlightLib\obj\Debug\netstandard2.0\FlightLib.AssemblyInfoInputs.cache
+C:\Users\Ian\Desktop\PrimerProyectoBefore\FlightLib\obj\Debug\netstandard2.0\FlightLib.AssemblyInfo.cs
+C:\Users\Ian\Desktop\PrimerProyectoBefore\FlightLib\obj\Debug\netstandard2.0\FlightLib.csproj.CoreCompileInputs.cache
+C:\Users\Ian\Desktop\PrimerProyectoBefore\FlightLib\obj\Debug\netstandard2.0\FlightLib.dll
+C:\Users\Ian\Desktop\PrimerProyectoBefore\FlightLib\obj\Debug\netstandard2.0\FlightLib.pdb
+G:\Mi unidad\2n\1r quatri\info II\Semana1\Proyecto 1\PrimerProyectoBefore\FlightLib\bin\Debug\netstandard2.0\FlightLib.deps.json
+G:\Mi unidad\2n\1r quatri\info II\Semana1\Proyecto 1\PrimerProyectoBefore\FlightLib\bin\Debug\netstandard2.0\FlightLib.dll
+G:\Mi unidad\2n\1r quatri\info II\Semana1\Proyecto 1\PrimerProyectoBefore\FlightLib\bin\Debug\netstandard2.0\FlightLib.pdb
+G:\Mi unidad\2n\1r quatri\info II\Semana1\Proyecto 1\PrimerProyectoBefore\FlightLib\obj\Debug\netstandard2.0\FlightLib.csproj.AssemblyReference.cache
+G:\Mi unidad\2n\1r quatri\info II\Semana1\Proyecto 1\PrimerProyectoBefore\FlightLib\obj\Debug\netstandard2.0\FlightLib.GeneratedMSBuildEditorConfig.editorconfig
+G:\Mi unidad\2n\1r quatri\info II\Semana1\Proyecto 1\PrimerProyectoBefore\FlightLib\obj\Debug\netstandard2.0\FlightLib.AssemblyInfoInputs.cache
+G:\Mi unidad\2n\1r quatri\info II\Semana1\Proyecto 1\PrimerProyectoBefore\FlightLib\obj\Debug\netstandard2.0\FlightLib.AssemblyInfo.cs
+G:\Mi unidad\2n\1r quatri\info II\Semana1\Proyecto 1\PrimerProyectoBefore\FlightLib\obj\Debug\netstandard2.0\FlightLib.csproj.CoreCompileInputs.cache
+G:\Mi unidad\2n\1r quatri\info II\Semana1\Proyecto 1\PrimerProyectoBefore\FlightLib\obj\Debug\netstandard2.0\FlightLib.dll
+G:\Mi unidad\2n\1r quatri\info II\Semana1\Proyecto 1\PrimerProyectoBefore\FlightLib\obj\Debug\netstandard2.0\FlightLib.pdb
+G:\Mi unidad\2n\1r quatri\info II\Semana1\Proyecto 1\- Deliverable #1.2 - Ían López Miralles - Primer proyecto -\FlightLib\bin\Debug\netstandard2.0\FlightLib.deps.json
+G:\Mi unidad\2n\1r quatri\info II\Semana1\Proyecto 1\- Deliverable #1.2 - Ían López Miralles - Primer proyecto -\FlightLib\bin\Debug\netstandard2.0\FlightLib.dll
+G:\Mi unidad\2n\1r quatri\info II\Semana1\Proyecto 1\- Deliverable #1.2 - Ían López Miralles - Primer proyecto -\FlightLib\bin\Debug\netstandard2.0\FlightLib.pdb
+G:\Mi unidad\2n\1r quatri\info II\Semana1\Proyecto 1\- Deliverable #1.2 - Ían López Miralles - Primer proyecto -\FlightLib\obj\Debug\netstandard2.0\FlightLib.csproj.AssemblyReference.cache
+G:\Mi unidad\2n\1r quatri\info II\Semana1\Proyecto 1\- Deliverable #1.2 - Ían López Miralles - Primer proyecto -\FlightLib\obj\Debug\netstandard2.0\FlightLib.AssemblyInfoInputs.cache
+G:\Mi unidad\2n\1r quatri\info II\Semana1\Proyecto 1\- Deliverable #1.2 - Ían López Miralles - Primer proyecto -\FlightLib\obj\Debug\netstandard2.0\FlightLib.AssemblyInfo.cs
+G:\Mi unidad\2n\1r quatri\info II\Semana1\Proyecto 1\- Deliverable #1.2 - Ían López Miralles - Primer proyecto -\FlightLib\obj\Debug\netstandard2.0\FlightLib.csproj.CoreCompileInputs.cache
+G:\Mi unidad\2n\1r quatri\info II\Semana1\Proyecto 1\- Deliverable #1.2 - Ían López Miralles - Primer proyecto -\FlightLib\obj\Debug\netstandard2.0\FlightLib.dll
+G:\Mi unidad\2n\1r quatri\info II\Semana1\Proyecto 1\- Deliverable #1.2 - Ían López Miralles - Primer proyecto -\FlightLib\obj\Debug\netstandard2.0\FlightLib.pdb
+G:\Mi unidad\2n\1r quatri\info II\Semana1\Proyecto 1\- Deliverable #1.2 - Ían López Miralles - Primer proyecto -\FlightLib\obj\Debug\netstandard2.0\FlightLib.GeneratedMSBuildEditorConfig.editorconfig
+G:\Mi unidad\2n\1r quatri\info II\Semana1\Proyecto 1\- Deliverable #3.2 - Ían López Miralles - Primer proyecto -\FlightLib\bin\Debug\netstandard2.0\FlightLib.deps.json
+G:\Mi unidad\2n\1r quatri\info II\Semana1\Proyecto 1\- Deliverable #3.2 - Ían López Miralles - Primer proyecto -\FlightLib\bin\Debug\netstandard2.0\FlightLib.dll
+G:\Mi unidad\2n\1r quatri\info II\Semana1\Proyecto 1\- Deliverable #3.2 - Ían López Miralles - Primer proyecto -\FlightLib\bin\Debug\netstandard2.0\FlightLib.pdb
+G:\Mi unidad\2n\1r quatri\info II\Semana1\Proyecto 1\- Deliverable #3.2 - Ían López Miralles - Primer proyecto -\FlightLib\obj\Debug\netstandard2.0\FlightLib.csproj.AssemblyReference.cache
+G:\Mi unidad\2n\1r quatri\info II\Semana1\Proyecto 1\- Deliverable #3.2 - Ían López Miralles - Primer proyecto -\FlightLib\obj\Debug\netstandard2.0\FlightLib.GeneratedMSBuildEditorConfig.editorconfig
+G:\Mi unidad\2n\1r quatri\info II\Semana1\Proyecto 1\- Deliverable #3.2 - Ían López Miralles - Primer proyecto -\FlightLib\obj\Debug\netstandard2.0\FlightLib.AssemblyInfoInputs.cache
+G:\Mi unidad\2n\1r quatri\info II\Semana1\Proyecto 1\- Deliverable #3.2 - Ían López Miralles - Primer proyecto -\FlightLib\obj\Debug\netstandard2.0\FlightLib.AssemblyInfo.cs
+G:\Mi unidad\2n\1r quatri\info II\Semana1\Proyecto 1\- Deliverable #3.2 - Ían López Miralles - Primer proyecto -\FlightLib\obj\Debug\netstandard2.0\FlightLib.csproj.CoreCompileInputs.cache
+G:\Mi unidad\2n\1r quatri\info II\Semana1\Proyecto 1\- Deliverable #3.2 - Ían López Miralles - Primer proyecto -\FlightLib\obj\Debug\netstandard2.0\FlightLib.dll
+G:\Mi unidad\2n\1r quatri\info II\Semana1\Proyecto 1\- Deliverable #3.2 - Ían López Miralles - Primer proyecto -\FlightLib\obj\Debug\netstandard2.0\FlightLib.pdb
